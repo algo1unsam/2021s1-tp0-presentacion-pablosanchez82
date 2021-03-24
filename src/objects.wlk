@@ -1,4 +1,4 @@
 object abc {
-	
+	method hola{}
 	
 }
